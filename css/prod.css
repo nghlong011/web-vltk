@@ -39,7 +39,7 @@
     grid-area: downapk;
     display: block;
     font-size: 0;
-    background-image: url(../assets/images/_sprites.png);
+    background-image: url(../prod/vltkm_2021_mainsite/header/_sprites.png);
     background-position: -318px -74px;
     width: 130px;
     height: 71px
@@ -1158,7 +1158,7 @@
 .vltkm_2021_mainsite_footer .inner .footer__icon {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/footer/_sprites.png);
+    background-image: url(../assets/images/footer/_sprites.png);
     background-position: 0 0;
     width: 494px;
     height: 55px;
@@ -1251,7 +1251,7 @@
     left: 50%;
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -314px -98px;
     width: 18px;
     height: 10px
@@ -1260,7 +1260,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__main .floatnav__dropdown:hover {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -294px -98px;
     width: 18px;
     height: 10px
@@ -1323,7 +1323,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item:hover+input {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -294px -98px;
     width: 18px;
     height: 10px
@@ -1356,7 +1356,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.home:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -212px -72px;
     width: 28px;
     height: 24px
@@ -1366,7 +1366,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.home:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -182px -72px;
     width: 28px;
     height: 24px
@@ -1375,7 +1375,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.camnang:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -211px -98px;
     width: 27px;
     height: 21px
@@ -1385,7 +1385,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.camnang:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -182px -98px;
     width: 27px;
     height: 21px
@@ -1394,7 +1394,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.event:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -325px -132px;
     width: 24px;
     height: 23px
@@ -1404,7 +1404,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.event:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -346px -72px;
     width: 24px;
     height: 23px
@@ -1413,7 +1413,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.policy:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -268px -72px;
     width: 24px;
     height: 24px
@@ -1423,7 +1423,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.policy:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -242px -72px;
     width: 24px;
     height: 24px
@@ -1432,7 +1432,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.code:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -267px -98px;
     width: 25px;
     height: 17px;
@@ -1443,7 +1443,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.code:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -240px -98px;
     width: 25px;
     height: 17px
@@ -1452,7 +1452,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.social:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -320px -72px;
     width: 24px;
     height: 24px
@@ -1462,7 +1462,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.social:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -294px -72px;
     width: 24px;
     height: 24px
@@ -1471,7 +1471,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.cs:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: 0 -204px;
     width: 23px;
     height: 23px
@@ -1481,7 +1481,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__item.cs:hover:before {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -325px -157px;
     width: 23px;
     height: 23px
@@ -1509,7 +1509,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__icon--home {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -259px -132px;
     width: 64px;
     height: 64px
@@ -1518,7 +1518,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__icon--fanpage {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -192px -132px;
     width: 65px;
     height: 64px
@@ -1527,7 +1527,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__icon--download {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: -182px 0;
     width: 190px;
     height: 70px
@@ -1536,7 +1536,7 @@
 .floating .vltkm_2021_mainsite_float_top .topnav__icon--topup {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vltkm_2021_mainsite/float_top/_sprites.png);
+    background-image: url(../assets/images/float_top/_sprites.png);
     background-position: 0 -132px;
     width: 190px;
     height: 70px
@@ -1624,7 +1624,7 @@
     height: 156px;
     width: var(--width-desktop);
     background: hsla(0, 0%, 100%, .95);
-    background: url(../assets/images/mb-bg.png);
+    background: url(../prod/vltkm_2021_mainsite/float_top_code/images/mb-bg.png);
     padding: 0 280px 0 140px
 }
 
@@ -1670,7 +1670,7 @@
     width: 280px;
     height: 180px;
     margin: auto;
-    background: url(../assets/images/bg-submenu.png);
+    background: url(../prod/vltkm_2021_mainsite/float_top_code/images/bg-submenu.png);
     background-size: 100% 100%
 }
 
@@ -1824,7 +1824,7 @@
     width: 281px;
     max-height: 500px;
     overflow: visible;
-    background: url(../assets/images/bg-submenu.png);
+    background: url(../prod/vltkm_2021_mainsite/float_top_code/images/bg-submenu.png);
     background-size: 100% 100%
 }
 
@@ -1841,7 +1841,7 @@
     max-height: 125px;
     width: 281px;
     overflow: visible;
-    background: url(../assets/images/bg-submenu.png);
+    background: url(../prod/vltkm_2021_mainsite/float_top_code/images/bg-submenu.png);
     background-size: 100% 100%
 }
 
@@ -5969,7 +5969,7 @@
 .vlnh_2022_mainsite_main_sub_detail_news .inner .main .subweb__aside .subweb__menu .subweb__menutitle {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vlnh_2022_mainsite/main_sub_detail_news/_sprites.png);
+    background-image: url(../assets/images/sub-detail/_sprites.png);
     background-position: 0 0;
     width: 300px;
     height: 70px;
@@ -6049,7 +6049,7 @@
 .vlnh_2022_mainsite_main_sub_detail_news .inner .main .subweb__main .info__link .home {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vlnh_2022_mainsite/main_sub_detail_news/_sprites.png);
+    background-image: url(../assets/images/sub-detail/_sprites.png);
     background-position: 0 -72px;
     width: 28px;
     height: 25px
@@ -6058,7 +6058,7 @@
 .vlnh_2022_mainsite_main_sub_detail_news .inner .main .subweb__main .info__link .next_sub {
     display: block;
     font-size: 0;
-    background-image: url(../prod/vlnh_2022_mainsite/main_sub_detail_news/_sprites.png);
+    background-image: url(../assets/images/sub-detail/_sprites.png);
     background-position: -30px -75px;
     width: 10px;
     height: 14px
@@ -6197,7 +6197,7 @@
 }
 
 .vlnh_2022_mainsite_main_sub_detail_news .article__time:before {
-    content: url(../prod/vlnh_2022_mainsite/main_sub_detail_news/images/dot.png);
+    content: url(../assets/images/sub-detail/dot.png);
     margin-right: 10px
 }
 
@@ -6927,22 +6927,22 @@ template {
 
 @font-face {
     font-family: Signika;
-    src: url(../prod/setup/fonts/signika/Signika-Regular.ttf)
+    src: url(../assets/fonts/Signika-Regular.ttf)
 }
 
 @font-face {
     font-family: Signika-bold;
-    src: url(../prod/setup/fonts/signika/Signika-Bold.ttf)
+    src: url(../assets/fonts/Signika-Bold.ttf)
 }
 
 @font-face {
     font-family: Signika-SemiBold;
-    src: url(../prod/setup/fonts/signika/Signika-SemiBold.ttf)
+    src: url(../assets/fonts/Signika-SemiBold.ttf)
 }
 
 @font-face {
     font-family: Signika-Light;
-    src: url(../prod/setup/fonts/signika/Signika-Light.ttf)
+    src: url(../assets/fonts/Signika-Light.ttf)
 }
 
 * {
@@ -7806,4 +7806,11 @@ hr.split--giant {
     display: block;
     width: 100%;
     height: 100%
+}
+@media screen and (max-width: 700px) {
+    .vlnh_2022_mainsite_main_sub_detail_news .inner .title-header{
+        font-size: 30px;
+        text-align: center;
+    }
+    
 }
